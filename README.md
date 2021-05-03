@@ -2,7 +2,7 @@
 Convert csv table into a LaTeX formatted table
 
 #### Example output:
-![Example](Example.png)
+![Example](/Example.png)
 
 #### Example LaTeX:
 \begin{table}[htbp]
